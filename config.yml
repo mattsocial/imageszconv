@@ -1,0 +1,11 @@
+
+inputDir: sources
+
+output:
+    -
+        dir: steam
+        size: 200x200
+    -
+        dir: steamlg
+        size: 400x200
+    
